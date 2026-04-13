@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Practica Sistema Musculoesqueletico
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Alonso
+    family-names: Romero Landa
+    email: l21212749@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+identifiers:
+  - type: url
+    value: 'https://github.com/AlonsoRomeroL/MSFPractica-3'
+    description: Repository Github
+repository-code: 'https://github.com/AlonsoRomeroL/MSFPractica-3'
+keywords:
+  - sistema musculoesqueletico
+  - Circuito RLC
+  - CONTROLADOR PID
+  - MODELO MATEMATICO
+  - SIMULACIONES NUMERICAS
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-04-13'
